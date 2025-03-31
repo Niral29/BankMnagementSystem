@@ -1,1 +1,1 @@
-# BankMnagementSystem
+# BankManagementSystem
